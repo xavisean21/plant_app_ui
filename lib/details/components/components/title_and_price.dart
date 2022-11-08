@@ -35,7 +35,6 @@ class TitleAndPrice extends StatelessWidget {
               ),
             ],
           ),
-
           Spacer(),
           Text(
             "\$$price",
